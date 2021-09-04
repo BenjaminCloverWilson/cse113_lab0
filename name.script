@@ -1,0 +1,25 @@
+Script started on 2021-08-27 12:30:43-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="188" LINES="13"]
+]0;ben@Clover-VirtualBox: ~/cse113/lab0[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab0[00m$ gcc -g -Wall -o[K[Kname.c -o name
+]0;ben@Clover-VirtualBox: ~/cse113/lab0[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab0[00m$ ./name
+BBBBBBBBBBBBBBBBBBB
+BBB              BBB
+BBB               BBB
+BBB                 BBB
+BBB                 BBB
+BBB                 BBB
+BBB               BBB           eeeeeeeeee          nnnn     nnnnnnn
+BBB              BBB         eeeee      eeeee       nnnn   nnnn    nnnn
+BBBBBBBBBBBBBBBBBBB         eeeee         eeeee     nnnn nnnn        nnnn
+BBB              BBB        eeeee         eeeeee    nnnnnnnn          nnnn
+BBB               BBB       eeeeeeeeeeeeeeeeeeee    nnnnnn            nnnn
+BBB                 BBB     eeeeeeeeeeeeeeeeeee     nnnnn             nnnn
+BBB                  BBB    eeeeee                  nnnn              nnnn
+BBB                  BBB    eeeeee                  nnnn              nnnn
+BBB                  BBB     eeeeee                 nnnn              nnnn
+BBB                 BBB      eeeeeeeeee             nnnn              nnnn
+BBB                BBB         eeeeeeeeeeeeee       nnnn              nnnn
+BBBBBBBBBBBBBBBBBBBBB            eeeeeeeeeeeee      nnnn              nnnn
+]0;ben@Clover-VirtualBox: ~/cse113/lab0[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab0[00m$ exit
+exit
+
+Script done on 2021-08-27 12:31:47-06:00 [COMMAND_EXIT_CODE="0"]
